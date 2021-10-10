@@ -11,7 +11,7 @@
 
 Дополнительные требования:
 - Поддержка AudioFocus
-- DI (e.g. Dagger)
+- реализация DI (e.g. Dagger)
 
 См. best partices тут: https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app
 для нотификаций: https://developer.android.com/reference/android/app/Notification.MediaStyle
