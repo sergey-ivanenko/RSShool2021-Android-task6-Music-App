@@ -19,6 +19,7 @@
 Пример: см. демо-видео https://youtu.be/NYMURgYAibg
 
 Пример экранов:
+
 <img alt="quiz app" src="/img/port_1.png" width="250" height="500" />
 
 <img alt="quiz app" src="/img/land_1.png" width="500" height="250" />
