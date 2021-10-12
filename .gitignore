@@ -78,6 +78,7 @@ lint/tmp/
 *.hprof
 
 .gradle
+.gitignore
 /local.properties
 /.idea/*
 .DS_Store
